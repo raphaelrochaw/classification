@@ -1,3 +1,3 @@
-Files used in the discipline Introdution to Machine Learning - Classification Models
+Files used in the discipline Introduction to Statistical Learning - Classification Models offered to the Master's and Doctorate Program in Animal Science at the Federal University of Minas Gerais, Brazil.
 
 Under continuous development!
